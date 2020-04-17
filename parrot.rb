@@ -2,6 +2,7 @@
 # returns the phrase
 require_relative '../parrot_spec.rb'
 
-def parrot("Squawk!")
+def parrot(phrase)
+  phrase = "Squawk!"
 
 end
